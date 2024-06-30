@@ -1,0 +1,493 @@
+*{
+    background-color: white;
+    padding: 0%;
+    margin: 0%;
+  
+}
+#head{
+    height: 200px;
+    width: 100%;
+}
+.box{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    margin-top: -65px;
+    padding-top: 15px;
+    font-size: 42px;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#box1{
+    width: 15%;
+    height: 100px;
+    margin-left: 300px;
+    margin-top: 60px;
+    font-size: 60px;
+    /* font-family: ; */
+}
+#box2{
+    width: 130px;
+    margin-left: 38%;
+    margin-top: -100px;
+}
+#box3{
+    width: 300px;
+    margin-left: 43%;
+}
+#box4{
+    width: 200px;
+    margin-left: 54%;
+}
+#box5{
+    width: 300px;
+    margin-left: 62%; 
+}
+#box6{
+    width: 120px; 
+    margin-left: 73.5%;
+}
+#box7{
+    width: 110px;
+    margin-left: 78.5%;
+}
+#box8{
+    width: 250px;
+    margin-left: 84%;
+}
+
+#all{
+    margin-left: 300px; 
+    margin-top: 20px; 
+    bottom: 10px; 
+    font-size: 90px;
+}
+#emoji{
+    width: 100px; 
+    height: 100px; 
+    margin-top: -125px; 
+    margin-left: 60%; 
+    margin-bottom: 90px;
+}
+
+#detail{
+    width: 1250px; 
+    color: grey; 
+    margin-left: 300px;
+    margin-bottom: 40px; 
+    font-size: 44px; 
+    word-spacing: default; 
+    line-height: 90px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo{
+    height: 80px; 
+    width: 80px; 
+    margin-left: 300px; 
+    margin-bottom: 10px;
+}
+#link{
+    margin-left: 20px;
+}
+#goog{
+    margin-left: 20px;
+}
+#fir{
+    margin-left: 20px;
+}
+#face{
+    margin-left: 20px;
+}
+#picture1{
+    height: 1000px;
+    width: 1430px;
+}
+
+.contact{ 
+    height: 70px; 
+    width: 300px; 
+    text-align: center; 
+    padding-top: 30px; 
+    margin-left: 300px; 
+    margin-top: 100px; 
+    background-color: darkslateblue; 
+    color: white;  
+    border: 3px solid none; 
+    border-radius: 20px;
+    font-size: 32px; 
+    word-spacing: 10px; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#see{ 
+    width: 350px; 
+    margin-left: 46%; 
+    margin-top: -110px;
+}
+
+#picture2{ 
+    height: 1000px;
+    width: 1400px; 
+    margin-left: 100px;
+    margin-top: 280px;
+    margin-bottom: 300px;
+}
+.para{
+    width: 1475px; 
+    color: grey; 
+    margin-left: none;
+    font-size: 40px; 
+    word-spacing: 2px; 
+    line-height: 70px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#do{
+    /* margin-right: 1400px; */
+    margin-top: 200px;
+    margin-left: -500px;
+    margin-bottom: -100px;
+    font-size: 90px;
+    text-align:center;
+    color: black;
+}
+#para2{
+    width: 1400px;
+    height: 300px;
+}
+#para1{
+    margin-top: 20px;
+}
+
+#section3{
+    width: 100%;
+    height: 1200px;
+    margin-top: 50px;
+}
+
+#prof{
+    width: 500px;
+    height: 100px;
+    font-size: 90px;
+    margin-top: -200px;
+    margin-left: 300px;
+    margin-bottom: 100px;
+    
+}
+.stackdevlop{
+    font-size: 44px;
+    color: grey;
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+#div{
+    width: 1200px;
+    height: 40px;
+    background-color: rgba(128, 128, 128, 0.138);
+    border: 1px solid none;
+    border-radius: 50px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+#front{
+    height: 40px;
+    width: 85%;
+    border-radius: 50px;
+    background-color: #9b5de5;
+    text-align: right;
+    padding-right: 10px;
+    box-sizing: border-box;
+    color: #fff;
+    line-height: 20px;
+}
+#back{
+    height: 40px;
+    width: 35%;
+    border-radius: 50px;
+    background-color: #9b5de5;
+    text-align: right;
+    padding-right: 10px;
+    box-sizing: border-box;
+    color: #fff;
+    line-height: 20px;
+}
+#prog{
+    height: 40px;
+    width: 60%;
+    border-radius: 50px;
+    background-color: #9b5de5;
+    text-align: right;
+    padding-right: 10px;
+    box-sizing: border-box;
+    color: #fff;
+    line-height: 20px;
+}
+
+#picture3{
+    height: 1000px;
+    width: 1400px;
+}
+
+#section4{
+    width: auto;
+    height: 1450px;
+    margin-left: 200px;
+}
+
+#open{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 70px;
+}
+
+
+.project {
+    width: 1200px;
+    height: 250px;
+    margin-top: 50px;
+    margin-right: 30px;
+    flex: 1 1 calc(50% - 20px);
+    background-color: #fafafa;
+    padding: 20px;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    box-shadow: 0 10px 0px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.project h2 {
+    margin-top: 0;
+    font-size: 50px;
+}
+
+.project p {
+    font-size: 30px;
+}
+
+.details {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    color: #666;
+    margin-top: 10px;
+}
+
+.details span {
+    display: flex;
+    align-items: center;
+}
+
+.language {
+    color: #f1c40f;
+}
+
+#m_project h3{
+    height: 70px; 
+    width: 320px; 
+    text-align: center; 
+    padding-top: 30px; 
+    margin-left: 1090px; 
+    margin-top: 100px; 
+    background-color: darkslateblue; 
+    color: white;
+    border: 3px solid none; 
+    border-radius: 20px;
+    font-size: 32px; 
+    word-spacing: 10px; 
+}
+
+#section5{
+    width: auto;
+    height: 900px;
+}
+
+#big{
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+    font-size: 80px;
+}
+#Big_project p {
+    margin-left: 300px;
+    font-size: 35px;
+    color: gray;
+    word-spacing: 0.5px;
+}
+#next{
+    margin-left: 35%;
+    margin-top: -300px;
+    font-size: 150px;
+}
+#saay{
+    width: 500px;
+    height: 500px;
+    margin-left: 300px;
+}
+
+#section6{
+    width: auto;
+    height: 1300px;
+}
+
+#section6 h1 {
+    margin-left: 300px;
+    margin-bottom: 20px;
+    font-size: 80px;
+}
+
+#section6 p {
+    margin-left: 300px;
+    margin-bottom: 40px;
+    font-size: 40px;
+    color: #666;
+}
+.card {
+    background: rgba(255, 255, 255, 0.689);
+    border-radius: 10px;
+    box-shadow: 20px 10px 70px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 700px;
+    height: 1000px;
+    text-align: center;
+    margin-left: 350px;
+}
+
+#card1{
+    margin-left: 37.8%;
+    margin-top: -34.4%;
+}
+#card2{
+    margin-left: 64%;
+    margin-top: -34.4%;
+}
+
+.card img {
+    width: 600px;
+    height: 500px;
+    margin-bottom: 30px;
+}
+
+.card h2 {
+    font-size: 55px;
+    margin-bottom: 30px;
+}
+
+.card p {
+    font-size: 40px;
+    color: gray;
+    margin-bottom: 30px;
+}
+
+.card .links a {
+    display: block;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.card .links a:hover {
+    text-decoration: underline;
+}
+
+#section7{
+    width: auto;
+    height: 800px;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+#section7 h1{
+    font-size: 70px;
+    margin-bottom: 30px;
+}
+#section7 p{
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    margin-bottom: 100px;
+}
+
+.blog_info{
+    width: 1200px;
+    height: 300px;
+    border: 2px solid none;
+    box-shadow: 10px 0px 70px rgba(0, 0, 0, 0.1);
+    font-size: 35px;
+    word-spacing: 2px;
+}
+.blog_info h2{
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.blog_info p{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+#cards{
+    margin-top: -11.5%;
+    margin-left: 48%;
+}
+
+#section8{
+    width: auto;
+    height: 1000px;
+    margin-left: 300px;
+}
+#section8 h1{
+    margin-top: 50px;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#section8 p{
+    font-size: 30px;
+}
+.build{
+    width: 600px;
+    height: 400px;
+    border: 1px solid none;
+    border-radius: 2px;
+    margin-left: 500px;
+    margin-top: 20px;
+    box-shadow: 10px 0px 70px rgba(0, 0, 0, 0.1);
+}
+.build h2{
+    padding: 40px 20px 40px 60px;
+    font-size: 50px;
+    color: white;
+    background-color: rgba(79, 79, 216, 0.821);
+}
+.build p{
+    padding: 20px 0 20px 50px;
+}
+
+.build .buttons{
+    height: 50px; 
+    width: 150px; 
+    text-align: center; 
+    padding-top: 10px; 
+    margin-left: 100px;
+    background-color: rgba(79, 79, 216, 0.821); 
+    border: 3px solid none; 
+    border-radius: 10px;
+    font-size: 32px; 
+    word-spacing: 10px; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.build .buttons #button1{
+    background-color: rgba(79, 79, 216, 0.821);
+    color: white;
+}
+.build .buttons #button2{
+    background-color: rgba(79, 79, 216, 0.821);
+    color: white;
+}
+#btn{
+    margin-top: -60px;
+    margin-left: 300px;
+}
+.tweets p{
+    width: 200px;
+    height: 50px;
+    font-size: 50px;
+}
